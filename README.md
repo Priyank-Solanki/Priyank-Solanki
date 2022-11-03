@@ -61,4 +61,4 @@ Hii, I'm Priyank Solanki
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyank-solanki&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=priyank-solanki&label=Profile%20Views&pretty=true&color=0&icon=0)](https://visitcount.itsvg.in)
