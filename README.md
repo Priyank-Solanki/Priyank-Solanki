@@ -5,7 +5,7 @@ Hii, I'm Priyank Solanki
 🔭 I’m currently working on my Skills.<br>
 🌱 I’m currently learning more about Front-End & DevOps tools.<br>
 🤔 I’m looking for help with Exploring New Technologies & Idea.<br>
-📫 How to reach me: Email - priyanksolanki30197@gmail.com<br>
+📫 How to reach me: Email - priyanksolanki2410@gmail.com<br>
 🌐 How to hire me: Website - https://priyank-solanki.vercel.app/<br>
 😄 Pronouns: He/His<br>
 ⚡ Fun fact: I love to do photography.
